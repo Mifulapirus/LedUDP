@@ -4,9 +4,11 @@
 *               the proper commands in order to make it work as 
 *               a remote PWM module
 *
-*  Version:  0.1
-*  Date:     February 2nd, 2015
-*  Author:   Ángel Hernández
+*  Version:      0.1
+*  Date:         February 2nd, 2015
+*  License:      GPL
+*  Author:       Ángel Hernández
+*  Contributors: Ángel Hernández
 *  Contact:  angel@tupperbot.com   
 *            @mifulapirus
 ******************************************************************/

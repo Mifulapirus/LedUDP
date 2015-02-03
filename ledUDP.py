@@ -11,6 +11,7 @@
     changed it.
 """ 
 __author__ = "Angel Hernandez"
+__contributors__ = "Angel Hernandez"
 __license__ = "GPL"
 __version__ = "0.7"
 __maintainer__ = "Angel Hernandez"
